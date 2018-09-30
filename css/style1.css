@@ -1,0 +1,68 @@
+#Name{
+    color: white;
+    background: #4aaaaf;
+    padding: 5px;
+    margin-left: 25%;
+
+}
+#topBar{
+    padding: 0px;
+}
+.justify-content-end{
+    margin-right: 25%;
+}
+.nav-link{
+    color: black;
+}
+#centerArea{
+    position: absolute;
+    width: 50%;
+    margin: auto;
+    left: 25%;
+    top: 10%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+}
+.jumbotron{
+    background-color: white;
+    margin: auto;
+}
+body{
+    background-image: url("../images/gravel/gravel.png");
+}
+#profPic{
+    height: 80px;
+    width: 120px;
+    transform: rotate(90deg);
+    float: left;
+    margin-top: 60px;
+}
+.display-4{
+    color: #4aaaaf;
+    font-weight: bolder;
+}
+#bottomText{
+    color: white;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#bottomTextBack{
+    color: white;
+    background-color: #4aaaaf;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 40px;
+}
+#bottomBarText{
+   width: 100%;
+   color: white;
+}
+#bottomBarBack{
+    width: 100%;
+    height: 120px;
+    background-color: #4aaaaf;
+    
+}
